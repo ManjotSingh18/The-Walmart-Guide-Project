@@ -1,2 +1,2 @@
 # The-Walmart-Guide-Project
-The Walmart Guide is a back-end based program which serves to collect data upon various items and prices specifed via search and filters within unqiue Walmart Stores by proximity to the users location.
+The Walmart Guide is a back-end based program which serves to collect data upon various items and prices specifed via search and filters within unqiue Walmart Stores by proximity to the users location in conjunction with the cost of gas it would require to obtain said product. The foundation of the program is built around geo-coding, data-scraping (BeautifulSoup), and parsing said data to obtain the data the user desires to view. 
